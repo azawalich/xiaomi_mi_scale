@@ -1,28 +1,16 @@
 {
   "options": {
-    "MISCALE_MAC": "00:00:00:00:00:00",
+    "MISCALE_MAC": "0C:95:41:B2:5E:79",
     "MQTT_HOST": "127.0.0.1",
-    "MQTT_USERNAME": "user",
-    "MQTT_PASSWORD": "passwd",
-
     "USERS": [
-        { 
+        {
           "GT": 60,
-          "LT": 80,
+          "LT": 120,
           "SEX": "male",
-          "NAME": "Jo",
-          "HEIGHT": 180,
-          "DOB": "1980-01-01"
-        },
-        { 
-          "GT": 40,
-          "LT": 60,
-          "SEX": "female",
-          "NAME": "Mary",
-          "HEIGHT": 160,
-          "DOB": "1990-01-01"
+          "NAME": "Aleksander",
+          "HEIGHT": 178,
+          "DOB": "1994-02-23"
         }
     ]
-
   }
 }
