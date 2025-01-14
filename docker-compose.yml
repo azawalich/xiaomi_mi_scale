@@ -2,7 +2,7 @@ version: '3'
 services:
 
   mi-scale:
-    image: lolouk44/xiaomi-mi-scale:latest
+    image: xiaomi_mi_scale:custom
     container_name: mi-scale
     restart: always
 
